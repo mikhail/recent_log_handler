@@ -2,7 +2,9 @@
 
 Helper log handler to catch debug logs while preventing them from overwhelming you.
 
-## Example
+## Usage
+Use it as a decorator with parameters!
+
 Full example is in the example.py file
 
 ```python
@@ -16,3 +18,5 @@ def main():
         log.debug('Obnoxious debug log here')
         5 / i  # something that causes a bug sometimes but not always
 ```
+
+![image](https://user-images.githubusercontent.com/3210918/80431456-5a59ba80-88a6-11ea-8299-b0d36706a287.png)
