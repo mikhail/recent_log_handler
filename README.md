@@ -19,4 +19,4 @@ def main():
         5 / i  # something that causes a bug sometimes but not always
 ```
 
-![image](https://user-images.githubusercontent.com/3210918/80431456-5a59ba80-88a6-11ea-8299-b0d36706a287.png)
+![image](https://user-images.githubusercontent.com/3210918/80432012-de607200-88a7-11ea-9d7c-4398620ca3c7.png)
