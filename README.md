@@ -1,4 +1,4 @@
-# log_handler
+# RecentHandler for logs
 
 Helper log handler to catch debug logs while preventing them from overwhelming you.
 
