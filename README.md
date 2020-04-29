@@ -2,6 +2,8 @@
 
 Helper log handler to catch debug logs while preventing them from overwhelming you.
 
+For other approaches check out my post "Practical solutions for your debug logs." on [Medium]( https://medium.com/@mikhail.simin/practical-solutions-for-your-debug-logs-db12f083f539).
+
 ## Usage
 Use it as a decorator with parameters!
 
